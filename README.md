@@ -1,8 +1,9 @@
-Autore: Matteo Santevecchi;
+***Autore:*** Matteo Santevecchi;
 
-Scuola: ITTS A.Volta;
+***Scuola:*** ITTS A.Volta;
 
-Classe: 4Ainf;
+***Classe:*** 4Ainf;
 
-Corso di studio: informatica;
+***Corso di studio:*** informatica;
+
 
